@@ -1,47 +1,46 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'First Portfolio',
+    subtitle: 'React Web Portfolio',
+    image: '/images/projects/portfolio.png',
+    date: '2023-03-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built with NextJS + React. '
+      + 'This portfolio redirects to my LinkedIn and Github '
+      + 'pages, and you can also send me an email or get '
+      + 'in contact through an EmailJS form.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Frontend for e-commerce',
+    subtitle: 'CSS, HTML and React + Material UI',
+    image: '/images/projects/petshop.png',
+    date: '2022-11-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
+      + 'Modi doloremque suscipit similique fugiat alias dignissimos '
+      + 'quos, odit debitis, tenetur nostrum reiciendis architecto!',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'E-Wallet',
+    subtitle: 'CSS, HTML and Javascript + MySQL, NodeJS',
+    image: '/images/projects/wallet.png',
+    date: '2022-10-20',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'This application supports user authentication using '
+      + 'middlewares and data base. Users are able to create a '
+      + 'new account using their email address and can then sign '
+      + 'in to see their income and outcome expenses list.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Creative Agency Landing',
+    subtitle: 'CSS, HTML and React + Material UI',
+    image: '/images/projects/landing.png',
+    date: '2022-09-20',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'A website not only should looks beautiful, but it also '
+      + 'needs to provide a great user experience. The users digital '
+      + 'experience should be, simple, effective and memorable.',
   },
 ];
 
